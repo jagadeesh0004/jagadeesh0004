@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on Web development 
 - 📫 How to reach me 
 - 😄 Pronouns: ...
-- ⚡ Fun fact: I am nood at coding 
+- ⚡ Fun fact: I am noob at coding 
 
 <!---
 jagadeesh0004/jagadeesh0004 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
